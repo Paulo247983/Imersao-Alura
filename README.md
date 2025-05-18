@@ -65,8 +65,6 @@ A estrutura modular do SAMOC permite sua fácil adaptação para diversos setore
 *   **Desenvolvimento de Software e Produtos SaaS:** Priorizar backlog, melhorar UI/UX com base no feedback de usuários.
 *   **Mídia e Publicações:** Identificar tópicos populares, otimizar SEO, e entender o engajamento dos leitores.
 
-*(Consulte a descrição detalhada do projeto para exemplos mais aprofundados de cada aplicação.)*
-
 ## Tecnologias Envolvidas (no Protótipo)
 
 *   **Inteligência Artificial (IA)**
