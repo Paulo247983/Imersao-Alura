@@ -88,7 +88,7 @@ O SAMOC é um **protótipo funcional** desenvolvido em ambiente de notebook (ex:
     *   As bibliotecas Python listadas no arquivo `requirements.txt` (ou instale diretamente: `pip install google-generativeai google-adk requests`).
 
 2.  **Configuração:**
-    *   Clone este repositório: `git clone [URL_DO_SEU_REPOSITORIO_AQUI]`
+    *   Clone este repositório: `git clone [Imersão_IA_Alura_+_Google_Gemini_Agentes_(Projeto).ipynb]`
     *   Navegue até o diretório do projeto.
     *   Configure sua chave de API do Google Gemini. No código fornecido (`.ipynb` ou `.py`), a chave é procurada em `userdata.get('GOOGLE_API_KEY_GEMINI')` (para Colab) ou solicitada via input manual. Certifique-se de que sua chave esteja acessível.
 
