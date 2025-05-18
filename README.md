@@ -71,7 +71,7 @@ A estrutura modular do SAMOC permite sua fácil adaptação para diversos setore
 
 *   **Inteligência Artificial (IA)**
 *   **Sistemas Multiagentes (SMA)**
-*   **Modelos de Linguagem Grandes (LLMs):** Google Gemini (especificamente `gemini-1.5-flash` no protótipo)
+*   **Modelos de Linguagem Grandes (LLMs):** Google Gemini (especificamente `gemini-2.0-flash` no protótipo)
 *   **Linguagem de Programação:** Python
 *   **Framework de Agentes:** Google Agent Development Kit (ADK)
 *   **Ferramentas de Busca:** Google Search (utilizado como proxy para coleta de dados e assistência na configuração no protótipo).
@@ -105,10 +105,3 @@ O SAMOC é um **protótipo funcional** desenvolvido em ambiente de notebook (ex:
 
 Contribuições são bem-vindas! Se você tem ideias para melhorar o SAMOC, otimizar os agentes, ou expandir sua aplicabilidade, sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
----
-
-**Nota:** Lembre-se de substituir `[URL_DO_SEU_REPOSITORIO_AQUI]` pela URL real do seu repositório no GitHub e, se você criar um arquivo `LICENSE` separado, referencie-o corretamente. Você também pode querer criar um arquivo `requirements.txt` listando as dependências exatas.
