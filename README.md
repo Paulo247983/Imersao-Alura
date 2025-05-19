@@ -1,4 +1,4 @@
-# SAMOC: Sistema de Monitoramento e Otimização de Conteúdo (e Negócios) Multiagentes
+# SIMOC: Sistema de Monitoramento e Otimização de Conteúdo (e Negócios) Multiagentes
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 [![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -7,13 +7,13 @@
 
 ## Resumo Executivo
 
-O SAMOC é um sistema inovador de Inteligência Artificial (IA) multiagentes, composto por quatro entidades colaborativas, projetado inicialmente para automatizar e otimizar o ciclo de vida do conteúdo educacional da Alura. Inspirado em arquiteturas genéricas de supervisão e controle, o SAMOC visa transformar a maneira como negócios monitoram o desempenho de seus ativos digitais (conteúdo, produtos, campanhas), analisam feedback de stakeholders (alunos, clientes, usuários) e identificam oportunidades para aprimoramento contínuo.
+O SIMOC é um sistema inovador de Inteligência Artificial (IA) multiagentes, composto por quatro entidades colaborativas, projetado inicialmente para automatizar e otimizar o ciclo de vida do conteúdo educacional da Alura. Inspirado em arquiteturas genéricas de supervisão e controle, o SIMOC visa transformar a maneira como negócios monitoram o desempenho de seus ativos digitais (conteúdo, produtos, campanhas), analisam feedback de stakeholders (alunos, clientes, usuários) e identificam oportunidades para aprimoramento contínuo.
 
-Ao automatizar tarefas de coleta, análise e sugestão, o sistema permite que as equipes humanas se concentrem em atividades estratégicas e criativas de maior valor. A arquitetura fundamental do SAMOC é **altamente adaptável**, podendo ser customizada para otimizar processos e estratégias em diversos outros tipos de negócios que dependem de conteúdo digital, feedback de clientes e análise de mercado.
+Ao automatizar tarefas de coleta, análise e sugestão, o sistema permite que as equipes humanas se concentrem em atividades estratégicas e criativas de maior valor. A arquitetura fundamental do SIMOC é **altamente adaptável**, podendo ser customizada para otimizar processos e estratégias em diversos outros tipos de negócios que dependem de conteúdo digital, feedback de clientes e análise de mercado.
 
 ## Problema Solucionado
 
-Muitas organizações, como a Alura com seu vasto catálogo de conteúdo, enfrentam o desafio de monitorar manualmente o desempenho de cada item, coletar e processar feedback de diversas fontes, identificar tendências e decidir sobre as melhores ações de otimização. Este é um processo complexo e demorado. O SAMOC aborda esse desafio fornecendo um fluxo de trabalho automatizado e inteligente. Este mesmo desafio de gerenciar e otimizar a "performance de ativos digitais" e "resposta a stakeholders" é comum em muitas indústrias.
+Muitas organizações, como a Alura com seu vasto catálogo de conteúdo, enfrentam o desafio de monitorar manualmente o desempenho de cada item, coletar e processar feedback de diversas fontes, identificar tendências e decidir sobre as melhores ações de otimização. Este é um processo complexo e demorado. O SIMOC aborda esse desafio fornecendo um fluxo de trabalho automatizado e inteligente. Este mesmo desafio de gerenciar e otimizar a "performance de ativos digitais" e "resposta a stakeholders" é comum em muitas indústrias.
 
 ## Como Funciona – A Orquestra de Quatro Agentes
 
@@ -41,7 +41,7 @@ O sistema opera em um fluxo de trabalho orquestrado, onde cada agente possui um 
 
 ## Objetivo Principal
 
-O SAMOC visa fornecer uma ferramenta poderosa para:
+O SIMOC visa fornecer uma ferramenta poderosa para:
 *   Automatizar o monitoramento contínuo de ecossistemas digitais e interações com stakeholders.
 *   Extrair inteligência acionável de forma eficiente.
 *   Receber sugestões proativas para otimizar produtos, serviços, marketing e experiência do cliente/usuário.
@@ -58,7 +58,7 @@ O SAMOC visa fornecer uma ferramenta poderosa para:
 
 ## Adaptabilidade e Exemplos de Aplicação
 
-A estrutura modular do SAMOC permite sua fácil adaptação para diversos setores:
+A estrutura modular do SIMOC permite sua fácil adaptação para diversos setores:
 
 *   **E-commerce e Varejo:** Otimizar catálogo de produtos, promoções, e responder a feedback de clientes.
 *   **Marketing Digital e Agências:** Aprimorar campanhas, analisar ROI, gerenciar reputação online.
@@ -76,7 +76,7 @@ A estrutura modular do SAMOC permite sua fácil adaptação para diversos setore
 
 ## Estado Atual do Projeto
 
-O SAMOC é um **protótipo funcional** desenvolvido em ambiente de notebook (ex: Google Colab), demonstrando o fluxo de trabalho colaborativo entre os quatro agentes. A coleta de dados é atualmente simulada através do Google Search, mas a arquitetura é projetada para permitir a integração futura com APIs reais de dados de diversas plataformas. O sistema é interativo e permite execuções cíclicas para simular monitoramento contínuo.
+O SIMOC é um **protótipo funcional** desenvolvido em ambiente de notebook (ex: Google Colab), demonstrando o fluxo de trabalho colaborativo entre os quatro agentes. A coleta de dados é atualmente simulada através do Google Search, mas a arquitetura é projetada para permitir a integração futura com APIs reais de dados de diversas plataformas. O sistema é interativo e permite execuções cíclicas para simular monitoramento contínuo.
 
 ## Como Rodar o Protótipo
 
@@ -101,5 +101,5 @@ O SAMOC é um **protótipo funcional** desenvolvido em ambiente de notebook (ex:
 
 ## Contribuições
 
-Contribuições são bem-vindas! Se você tem ideias para melhorar o SAMOC, otimizar os agentes, ou expandir sua aplicabilidade, sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
+Contribuições são bem-vindas! Se você tem ideias para melhorar o SIMOC, otimizar os agentes, ou expandir sua aplicabilidade, sinta-se à vontade para abrir uma *Issue* ou enviar um *Pull Request*.
 
